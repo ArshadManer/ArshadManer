@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshad Maner</h1>
-<h3 align="center">A passionate Statistician from India, currently pursuing Data Science as I want to make a career in it.</h3>
+<h3 align="center">A passionate Statistician from India, currently pursuing MS in Data Science as I want to make a career in it.</h3>
 
 - 🔭 I’m currently working on [wheat classifer](https://github.com/pratikshinde115/wheat-proj/tree/master)
 
