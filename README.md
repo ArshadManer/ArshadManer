@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshad Maner</h1>
 <h3 align="center">A passionate Data Scientist🚀 from India, currently pursuing 🎓 MS in Data Science.</h3>
 
-- **🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics |  👨‍💻 Data Analyst at bluCognition | ☁️ AWS Solution Architecture Associate Trainee  |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 |  💻 Python, R, JavaScript, SQL.**
+- *🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics |  👨‍💻 Data Analyst at bluCognition | ☁️ AWS Solution Architecture Associate Trainee  |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 |  💻 Python, R, JavaScript, SQL.*
 
 
 - 🔭 I’m currently working on [Metro traffic monitoring]
