@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arshad Maner</h1>
-<h3 align="center">A passionate Statistician from India, currently pursuing MS in Data Science as I want to make a career in it.</h3>
+<h3 align="center">A passionate Data Scientist from India, currently pursuing MS in Data Science as I want to make a career in it.</h3>
 
 - 🔭 I’m currently working on [Metro traffic monitoring](https://github.com/pratikshinde115/wheat-proj/tree/master)
 
-- 🌱 I’m currently learning **Machine Learning, AWS, Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning, Cloud Computing- AWS-SAA, Artificial Intelligence**
 
-- 💬 Ask me about **anything related to Statistic,Analysis,Data science**
+- 💬 Ask me about **anything related to Data science, Cloud- AWS, Statistic,Analysis**
 
 - 📫 How to reach me **arshadmaner313@gmail.com**
 
