@@ -4,8 +4,6 @@
 - *🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics |  👨‍💻 Data Analyst at bluCognition | ☁️ AWS Solution Architecture Associate Trainee  |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 |  💻 Python, R, JavaScript, SQL.*
 
 
-- 🔭 I’m currently working on [Metro traffic monitoring]
-
 - 💬 Ask me **anything related to Data science, Cloud- AWS, Statistic, Analysis**
 
 - 📫 Reach out to me **arshadmaner313@gmail.com**
