@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arshad Maner</h1>
-<h3 align="center">A passionate Data Scientist from India, currently pursuing MS in Data Science as I want to make a career in it.</h3>
+<h3 align="center">A passionate Data Scientist🚀 from India, currently pursuing 🎓 MS in Data Science.</h3>
 
-- 🔭 I’m currently working on [Metro traffic monitoring](https://github.com/pratikshinde115/wheat-proj/tree/master)
+- **🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics |  👨‍💻 Data Analyst at bluCognition | ☁️ AWS Solution Architecture Associate Trainee  |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 |  💻 Python, R, JavaScript, SQL.**
 
-- 🌱 I’m currently learning **Machine Learning, Cloud Computing- AWS-SAA, Artificial Intelligence**
+- 🔭 I’m currently working on [Metro traffic monitoring]
 
-- 💬 Ask me about **anything related to Data science, Cloud- AWS, Statistic,Analysis**
+- 💬 Ask me **anything related to Data science, Cloud- AWS, Statistic, Analysis**
 
-- 📫 How to reach me **arshadmaner313@gmail.com**
+- 📫 Reach out to me **arshadmaner313@gmail.com**
 
 <h3 align="left">Connect with me: </h3> <a href="https://www.linkedin.com/in/arshad-maner-46b988216/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <p align="left">
