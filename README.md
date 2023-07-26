@@ -9,7 +9,7 @@
 <h3 align="left">Reach out to me: </h3> 
 
 - 💬 **arshadmaner313@gmail.com**
--   **7378776675**
+-    **+91 7378776675**
 <h3 align="left">Connect with me: </h3> <a href="https://www.linkedin.com/in/arshad-maner-46b988216/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <p align="left">
 </p>
