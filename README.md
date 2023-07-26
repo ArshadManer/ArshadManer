@@ -1,4 +1,4 @@
-![image](https://github.com/ArshadManer/ArshadManer/assets/122983937/b976e63a-eb6a-43c9-90ef-2c8a0c828fc5)<h1 align="center">Hi 👋, I'm Arshad Maner</h1>
+<h1 align="center">Hi 👋, I'm Arshad Maner</h1>
 <h3 align="center"> A passionate Data Scientist🚀 & Cloud Engineer from India</h4>
 
 - *🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics | ☁️ AWS Solution Architect Associate |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 | 💻 Python, R, SQL, Excel | 👨‍💻 Data Analyst at bluCognition |.*
