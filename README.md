@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arshad Maner</h1>
+![image](https://github.com/ArshadManer/ArshadManer/assets/122983937/b976e63a-eb6a-43c9-90ef-2c8a0c828fc5)<h1 align="center">Hi 👋, I'm Arshad Maner</h1>
 <h3 align="center"> A passionate Data Scientist🚀 & Cloud Engineer from India</h4>
 
 - *🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics | ☁️ AWS Solution Architect Associate |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 | 💻 Python, R, SQL, Excel | 👨‍💻 Data Analyst at bluCognition |.*
@@ -7,8 +7,9 @@
 - 💬 Ask me **anything related to Data science, Cloud- AWS, Machine Learning, Statistic, Analytics**
 
 <h3 align="left">Reach out to me: </h3> 
-- **arshadmaner313@gmail.com**
 
+- 💬 **arshadmaner313@gmail.com**
+-   **7378776675**
 <h3 align="left">Connect with me: </h3> <a href="https://www.linkedin.com/in/arshad-maner-46b988216/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <p align="left">
 </p>
