@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshad Maner</h1>
 <h3 align="center"> A passionate Data Scientist🚀 & Cloud Engineer from India</h4>
 
-- *🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics | ☁️ AWS Solution Architect Associate |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 | 💻 Python, R, SQL, Excel | 👨‍💻 Data Analyst at bluCognition |.*
+- *🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics | ☁️ AWS Solution Architect |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 | 💻 Python, R, SQL, Excel | 👨‍💻 Data Analyst at bluCognition |.*
 
 
 - 💬 Ask me **anything related to Data science, Cloud- AWS, Machine Learning, Statistic, Analytics**
