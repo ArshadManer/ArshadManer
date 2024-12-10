@@ -4,7 +4,7 @@
 - *🎓 Master's in Data Science | 🧑🏻‍🎓 Graduate in Statistics | ☁️ AWS Solution Architect |  🤖 Machine Learning Specialization from Stanford University (deeplearning.ai)🔬 | 💻 Python, R, SQL, Excel | 👨‍💻 Data &AI Scientist |.*
 
 
-- 💬 Ask me **anything related to Data science, Cloud- AWS, Machine Learning, Statistic, Analytics**
+- 💬 Ask me **anything related to GenAI, Data science, Cloud- AWS, Azure, Machine Learning, Statistic, Analytics**
 
 <h3 align="left">Reach out to me: </h3> 
 
